@@ -96,7 +96,7 @@ AUTOUPDATE = 'Yes'
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL = 'Yes'
 # Addon ID for the repository
-REPOID = 'repository.openwizard'
+REPOID = 'repository.citizen'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml'
 # Url to folder zip is located in
